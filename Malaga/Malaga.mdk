@@ -31,7 +31,7 @@ Beamer Theme  : Classic
  it is possible to evaluate the interaction between people and combustion products 
 
 ## CASE 1   
-* two way tunnel
+* two ways tunnel
 * transversal ventilation logic
 * evacuation system is provided of ventilated refuges
 
@@ -52,7 +52,10 @@ Beamer Theme  : Classic
 ![Slide9_resultsCase1]
 [Slide9_resultsCase1]: images/Slide9_resultsCase1.png "Slide9_resultsCase1" { width:auto; max-width:90% }
 
-## CASE 1 - Comparative FED and evacuation analysis
+## CASE 1 - Comparative analysis
+
+Empty columns correspond to egress evaluated in no fire case (fire drill). 
+The comparison gives an estimation of how much the configuration_b is close to a not emergency situation. 
 
 ![Slide10_resultsCase1]
 [Slide10_resultsCase1]: images/Slide10_resultsCase1.png "Slide10_resultsCase1" { width:auto; max-width:90% }
@@ -68,14 +71,15 @@ Existing opera -  Impact of a noise barrier installation between two existing tu
 
 ## CASE 2 - Tunnel characteristics   
 
-* one-way tunnel 
+* 2 one-way tunnels 
 * no ventilation
 * no bypass and no refuges
+
+
 
 ## CASE 2 - Fire Scenario   
 Fire: positioned at the lowest point of the tunnel (worst case) 
 ![case2_Fire location]
-
 [case2_Fire location]: images/case2_Fire-location.png "case2_Fire location" { width:auto; max-width:90% }
 
 
