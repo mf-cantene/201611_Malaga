@@ -75,15 +75,21 @@ Existing opera -  Impact of a noise barrier installation between two existing tu
 * no ventilation
 * no bypass and no refuges
 
+![Case2_section]
+[Case2_section]: images/Case2_section.png "Case2_section" { width:auto; max-width:90% }
+
 
 
 ## CASE 2 - Fire Scenario   
+
 Fire: positioned at the lowest point of the tunnel (worst case) 
+
 ![case2_Fire location]
 [case2_Fire location]: images/case2_Fire-location.png "case2_Fire location" { width:auto; max-width:90% }
 
 
 ##CASE 2 - HRR curve
+
 2 HRR are considered (30 and 100 MW)
 
 ![Case 2_HRR Curve]
