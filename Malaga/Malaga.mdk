@@ -21,14 +21,14 @@ Beamer Theme  : Classic
    When an update normative context obliges modifications in existing operas, 
    impact could be measured through quantitative methods.
 
-## Fire Engineering as intersections of other discplines   
+## Fire Engineering as intersections of other disciplines   
 * Architectural
 * Civil Works
 * Mechanical Ventilation
 
 ## Methodology   
-* Through a multiscale approach combining 1D and CFD + evacuation analyses,
- it is possible to evaluate the interaction between people and combustion products 
+Through a multiscale approach combining 1D and CFD + evacuation analyses,
+it is possible to evaluate the interaction between people and combustion products. 
 
 ## CASE 1   
 * two ways tunnel
@@ -97,7 +97,7 @@ Fire: positioned at the lowest point of the tunnel (worst case)
 
 ##CASE 2 - Results - smoke control
 
-* Configuration_a
+**Configuration_a**
 
 ![Case2_Config_a]
 [Case2_Config_a]: images/Case2_Config_a.png "Case2_Config_a" { width:auto; max-width:90% }
@@ -106,7 +106,7 @@ Without the noise barrier, smoke exits from right tube of tunnel 2 and spread in
 
 ##CASE 2 - Results - smoke control
 
-* Configuration_b
+**Configuration_b**
 
 ![case2_Config_b]
 
@@ -126,7 +126,7 @@ CO concentration is higher in presence of the noise barrier.
 
 In road tunnels, when the interaction between occupants and combustion products is not negligible 
 egress can not be calculated under the hypothesis of ‘occupant never interact with combustion  products’.
-FED analyses is necessary.
+FED analysis is necessary.
 
 ![Conclusioni1]
 [Conclusioni1]: images/Conclusioni1.png "Conclusioni1" { width:auto; max-width:90% }
@@ -134,7 +134,7 @@ FED analyses is necessary.
 
 ##Conclusions / 2
 
-A suggestions for Thunderhead Engineering: Pathfinder could take into account: 
+**A suggestions for Thunderhead Engineering**: Pathfinder could take into account: 
 The reduction of the occupant speed based on  low visibility;
 the contribution of the thermal FED in addition to the toxic FED.
 
@@ -142,6 +142,4 @@ the contribution of the thermal FED in addition to the toxic FED.
 
 [Conclusioni2]: images/Conclusioni2.png "Conclusioni2" { width:auto; max-width:90% }
 
-
-
-## Thanks for looking :-)
+## Thanks for your attention
